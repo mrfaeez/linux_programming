@@ -1,0 +1,22 @@
+*IN ROOT ($ su)
+
+CHECK USER
+cat /etc/passwd
+ls /home
+
+ADD USER
+useradd hunny
+
+CHANGE PASSWORD
+passwd hunny
+
+DELETE USER
+userdel hunny
+
+
+COMPILE C++
+g++ test.cpp -o test
+
+EXECUTE C++
+chmod +x ./test
+./test

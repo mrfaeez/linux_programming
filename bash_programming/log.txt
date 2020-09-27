@@ -1,0 +1,2 @@
+total 4
+drwxrwxr-x. 2 user user 4096 Sep 28 06:29 bash_programming

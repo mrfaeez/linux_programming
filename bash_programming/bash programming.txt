@@ -1,0 +1,11 @@
+- change from csh to bash
+- output might differ for different shell
+- note the shabang
+- ctrl+v in vim to enter visual block mode
+
+- ' echo string literally
+- " echo string resolves variable before echoing
+
+$ ps -a (show all running process)
+
+:tabstop 2 (change tab distance)
