@@ -86,4 +86,14 @@ while true; do
 	done
 
 
+trap 'justonce' 2
+
+justonce(){
+
+	echo "not yet"
+	trap 2
+
+}
+
+
 
